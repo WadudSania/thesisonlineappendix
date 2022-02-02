@@ -101,5 +101,4 @@ Bayes        -36.926
 Shibata      -37.116
 Hannan-Quinn -37.042
 
-
 Elapsed time : 4.649228 
